@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Config Changer\bin\Debug\netcoreapp3.1\Config Changer.exe
+C:\Users\User\source\repos\Config Changer\bin\Debug\netcoreapp3.1\Config Changer.deps.json
+C:\Users\User\source\repos\Config Changer\bin\Debug\netcoreapp3.1\Config Changer.runtimeconfig.json
+C:\Users\User\source\repos\Config Changer\bin\Debug\netcoreapp3.1\Config Changer.runtimeconfig.dev.json
+C:\Users\User\source\repos\Config Changer\bin\Debug\netcoreapp3.1\Config Changer.dll
+C:\Users\User\source\repos\Config Changer\bin\Debug\netcoreapp3.1\Config Changer.pdb
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config_Changer.Form1.resources
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.AssemblyInfo.cs
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.dll
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.pdb
+C:\Users\User\source\repos\Config Changer\obj\Debug\netcoreapp3.1\Config Changer.genruntimeconfig.cache
